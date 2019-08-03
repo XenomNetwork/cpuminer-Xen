@@ -131,6 +131,17 @@ step 2- sudo apt-get install build-essential libssl-dev libcurl4-openssl-dev lib
 
 step 3- git clone https://github.com/XenomNetwork/cpuminer-Xen && cd cpuminer-Xen && ./autogen.sh && CFLAGS="-O3 -march=native -Wall" ./configure --with-curl && make
 
+Tricks...
+---------
+
+checked & set "hugepages"
+cat /proc/meminfo | grep Huge 
+sudo sysctl -w vm.nr_hugepages=2048
+
+play & set --affinity parameter
+https://phempshall.github.io/cpuminer-affinity-setter/
+
+
 Donations
 ---------
 
