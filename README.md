@@ -130,6 +130,7 @@ cpuminer-opt has no fees of any kind but donations are accepted.
  DOGE DNrWJASoLM54UvBVZhX1qd99sCYW9ZADUo
  CPU: Cb1j2TivwGky5iBanoeVjZ47GkUSCUR4pN
  LTCNG: MCTDcQ87pDnY4qCjLn1gk8FLmSWdWLw9aD
+ 
 
 Happy mining!
 
