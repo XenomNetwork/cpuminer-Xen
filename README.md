@@ -123,13 +123,9 @@ Supported Algorithms
 Donations
 ---------
 
-cpuminer-opt has no fees of any kind but donations are accepted.
+cpuminer-Xen has no fees of any kind but donations are accepted.
 
- BTC: 3LvzNGmiko44yZ4MzFFX2tneEg4yRMXhZ7
- LTC: MSYzi5zSCwEJsPy7FVDQiUsZkK9iJW3Mxz
- DOGE DNrWJASoLM54UvBVZhX1qd99sCYW9ZADUo
- CPU: Cb1j2TivwGky5iBanoeVjZ47GkUSCUR4pN
- LTCNG: MCTDcQ87pDnY4qCjLn1gk8FLmSWdWLw9aD
+ BTC: 3LvzNGmiko44yZ4MzFFX2tneEg4yRMXhZ7 | LTC: MSYzi5zSCwEJsPy7FVDQiUsZkK9iJW3Mxz | DOGE DNrWJASoLM54UvBVZhX1qd99sCYW9ZADUo | CPU: Cb1j2TivwGky5iBanoeVjZ47GkUSCUR4pN | LTCNG: MCTDcQ87pDnY4qCjLn1gk8FLmSWdWLw9aD
 
 Happy mining!
 
