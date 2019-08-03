@@ -114,7 +114,7 @@ Supported Algorithms
                           yespower      Cryply
                           yespowerr16   Yenten (YTN)
                           yespowerurx   Yespower (URX)
-                          yespowerltncg Yespower (LTCNG)
+                          yespowerltncg Yespower (LTNCG)
                           cpupower      CPUchain (CPU)
                           zr5           Ziftr
 
@@ -136,7 +136,11 @@ Donations
 
 cpuminer-Xen has no fees of any kind but donations are accepted.
 
- BTC: 3LvzNGmiko44yZ4MzFFX2tneEg4yRMXhZ7 | LTC: MSYzi5zSCwEJsPy7FVDQiUsZkK9iJW3Mxz | DOGE DNrWJASoLM54UvBVZhX1qd99sCYW9ZADUo | CPU: Cb1j2TivwGky5iBanoeVjZ47GkUSCUR4pN | LTCNG: MCTDcQ87pDnY4qCjLn1gk8FLmSWdWLw9aD
+ BTC: 3LvzNGmiko44yZ4MzFFX2tneEg4yRMXhZ7
+ LTC: MSYzi5zSCwEJsPy7FVDQiUsZkK9iJW3Mxz
+ DOGE DNrWJASoLM54UvBVZhX1qd99sCYW9ZADUo
+ CPUchain: Cb1j2TivwGky5iBanoeVjZ47GkUSCUR4pN
+ LTNCG: MCTDcQ87pDnY4qCjLn1gk8FLmSWdWLw9aD
 
 Happy mining!
 
