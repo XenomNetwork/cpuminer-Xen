@@ -126,7 +126,9 @@ Quick installation *Ubuntu
 ---------------------------
 
 step 1- sudo apt-get update && sudo apt-get upgrade -y
+
 step 2- sudo apt-get install build-essential libssl-dev libcurl4-openssl-dev libjansson-dev libgmp-dev automake zlib1g-dev git -y
+
 step 3- git clone https://github.com/XenomNetwork/cpuminer-Xen && cd cpuminer-Xen && ./autogen.sh && CFLAGS="-O3 -march=native -Wall" ./configure --with-curl && make
 
 Donations
