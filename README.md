@@ -118,6 +118,8 @@ Supported Algorithms
                           cpupower      CPUchain (CPU)
                           zr5           Ziftr
 
+						  
+![](https://i.imgur.com/CQnZOuA.gif)
 
 
 Donations
