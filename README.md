@@ -135,10 +135,13 @@ Tricks...
 ---------
 
 checked & set "hugepages"
+
 cat /proc/meminfo | grep Huge 
+
 sudo sysctl -w vm.nr_hugepages=2048
 
 play & set --affinity parameter
+
 https://phempshall.github.io/cpuminer-affinity-setter/
 
 
